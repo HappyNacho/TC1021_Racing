@@ -7,11 +7,11 @@ Ekaterina Chumakova
 Repositorio para el proyecto semestral de la clase de Videojuegos
 
 
-##About:
+<h2>About:</h2>
 
 Juego multiplayer basado en Unity del genero de carreras.
 
-<h1> Features: </h1>
+<h2> Features: </h2>
 
 * Split Screen
 
@@ -19,4 +19,12 @@ Juego multiplayer basado en Unity del genero de carreras.
 
 * Lap indicator
 
-##Work in Progress
+* Gamepad Support
+
+<h2>Work in Progress </h2>
+
+* Powerups
+
+* More levels
+
+* Control optimizations
